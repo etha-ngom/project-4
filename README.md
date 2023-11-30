@@ -1,2 +1,2 @@
-# project-4
+# Project 4
 Empirical Investigation with Finance Data from CORGIS
